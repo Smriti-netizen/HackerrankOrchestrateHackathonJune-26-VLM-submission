@@ -1,0 +1,5 @@
+pandas>=2.0.0
+pillow>=10.0.0
+pillow-avif-plugin>=1.4.0
+python-dotenv>=1.0.0
+groq>=0.25.0
